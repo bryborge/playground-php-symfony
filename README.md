@@ -1,0 +1,2 @@
+# PHP Symfony Playground
+
