@@ -1,3 +1,5 @@
 docker/database/data/
 docker/logs/
 src/
+
+.env
